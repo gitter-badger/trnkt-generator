@@ -1,4 +1,5 @@
 /web/bundles/
+/web/assetic/*
 /app/bootstrap.php.cache
 /app/cache/*
 /app/config/parameters.yml
@@ -11,3 +12,6 @@
 /composer.phar
 .project
 .settings/*
+/src/*/*Bundle/Resources/config/bower/bower_components
+/src/*/*Bundle/Resources/public/components
+

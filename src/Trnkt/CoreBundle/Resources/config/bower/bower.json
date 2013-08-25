@@ -1,0 +1,10 @@
+{
+  "name": "trnkt-core-bundle",
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "jquery.scrollTo": "~1.4.6",
+    "jquery.localScroll": "~1.2.8",
+    "jparallax": "~2.0.3"
+  }
+}
