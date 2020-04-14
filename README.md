@@ -1,6 +1,8 @@
 Symfony Standard Edition
 ========================
 
+[![Join the chat at https://gitter.im/trnkt-generator/community](https://badges.gitter.im/trnkt-generator/community.svg)](https://gitter.im/trnkt-generator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new applications.
 
